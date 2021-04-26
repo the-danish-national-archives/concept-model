@@ -43,7 +43,7 @@ The step P1 Migration Assessment does not apply the InSPECT framework slavishly 
 ## 3. Execution
 The following sections describe how to apply the Migration Assessment and which deliverables are expected. See illustrative overview below.
 
-![alt text](https://github.com/Asbjoedt/New-Preservation-Concept/blob/main/Concept%20Model/P1%20Migration%20Assessment/Illustration%20of%20P1%20Migration%20Assessment.PNG?raw=true)
+![alt text](https://github.com/the-danish-national-archives/concept-model/blob/main/P1%20Migration%20Assessment/Illustration%20of%20P1%20Migration%20Assessment.png?raw=true)
 
 ## 3.1. Technical analysis of significant properties
 The identified file formats from the step P0 Pre-analysis are the objects of the technical analysis. The technical analysis of objects may adopt and further develop the preliminary table of significant properties identified in the Pre-analysis.
