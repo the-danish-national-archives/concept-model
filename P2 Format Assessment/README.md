@@ -14,7 +14,7 @@
 	8. [Licensing](#38-licensing)
 	9. [Structure](#39-structure)
 	10. [Structure II](#310-structure-ii)
-	11. [Significant properties](#311-significant-properties)Q
+	11. [Significant properties](#311-significant-properties)
 	12. [Dissemination](#312-dissemination)
 	13. [Searchability](#313-searchability)
 	14. [Interoperability](#314-interoperability)
