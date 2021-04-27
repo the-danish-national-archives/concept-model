@@ -24,7 +24,7 @@ The investigation begins with the carrying out of the Pre-analysis (P0), which t
 Then a new process begins, which results in adopted legislation, new procedures for submission and revised validation software. However, this process lies outside the scope of the Concept Model. The investigation is formally concluded by the delivery of the reports, templates and a Decision Recommendation for your archive’s management.
 
 **Figure 1. The steps of the Concept Model.**
-()[]
+![Figure 1. The steps of the Concept Model.](https://github.com/the-danish-national-archives/concept-model/blob/main/Summary%20and%20processes/Steps%20of%20the%20Concept%20Model.PNG?raw=true)
  
 ## 3. Screening and Priority List
 The purpose of the Priority List is to collate the reporting of problematic data, which your archive become familiar with, typically through public notification of IT systems, submissions or supervision.
