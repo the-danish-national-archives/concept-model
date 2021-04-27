@@ -29,7 +29,7 @@ Regarding storage, the DNA have the policy that digitally created data must be s
 Preservation plans for content types must be delivered in a report with free choice of disposition. The report must collate the assessments and tests applied in the previous steps of the concept model, and it must conclude on these as recommendations for the long term preservation of the content type’s data. The content type preservation plan must be delivered together with specific preservation plans for the investigated file formats, and these must be delivered by applying a template (see 8.1. Template). 
 Preservation plans for content types are the last step of the concept model, and they will typically only be reformulated, if the content types is reinvestigated by use of the concept model. On the other hand, preservation plans for specific file formats may be reformulated when necessary (see 7. Reformulation and monitoring).
 
-![Relationship between file formats, content types and preservation plans in the concept model](https://github.com/Asbjoedt/New-Preservation-Concept/blob/main/Concept%20Model/P5%20Preservation%20Plan/Illustration%20of%20relationships.PNG?raw=true)
+![Relationship between file formats, content types and preservation plans in the concept model](https://github.com/the-danish-national-archives/concept-model/blob/main/P5%20Preservation%20Plan/Illustration%20of%20relationships.png?raw=true)
 
 Figure 1. Relationship between file formats, content types and preservation plans in the concept model.
  
