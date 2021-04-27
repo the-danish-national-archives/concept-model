@@ -1,15 +1,15 @@
-# Presenting the Danish National Archives' Concept Model for Development of Preservation Plans
+# Concept Model for Development of Preservation Plans
 
 ## Introduction
-The Concept Model enables an archive to develop preservation plans for content types and file formats in a methodical and documented approach. It provides several steps to complete involving
+The Concept Model enables your archive to develop preservation plans for content types and file formats in a methodical and documented approach. It provides several steps to complete involving:
 
-* Screening and Priority List
+* Screening and prioritization
 * Pre-analysis
 * Migration Assessment
 * Format Assessment
-* Testing
+* Testing data and software
 * Consequence Assessment
-* and finally the drafting of a preservation plan
+* and finally the drafting a Preservation Plan for your archive's management
 
 To support the completion, guides for each step and templates are provided. We present the Concept Model in an English translation from Danish and we kindly ask you to bear this in mind when reading. The translations have been made to support international dissemination of the model.
 
