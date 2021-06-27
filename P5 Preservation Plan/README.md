@@ -60,8 +60,8 @@ Reformulation of preservation plans are conducted as part of the monitoring of f
 Monitoring means the continuous work with keeping track of the risks of technological obsolescence for file formats or that newer file formats are created, that potentially better preservation formats.
 Monitoring can be performed through various sources such as literature, newsletters, conferences, networks, communities, sparring, consultancy and software reviews. Monitoring are performed in different intervals, and we propose the following classifications:
 1. Ordinary = Monitoring are persistent through the abovementioned sources
-2. Yearly = The file format are on the Candidate List and are discussed once yearly
-3. Intensive = The file format are on the Candidate List and is currently being investigated
+2. Yearly = The file format are on the Priority List and are discussed once yearly
+3. Intensive = The file format are on the Priority List and is currently being investigated
 4. None = The file format has the lowest preservation level and is not monitored
 
 In case the reformulation of the fields ”Preservation level”, “Convert to” and “Validation req.” are necessary, then the active preservation plan must be transferred to the sheet “Deprecated preservation plans” and a new preservation plan must be created, based on copying of relevant consistent template data. The sheet “Tentative preservation plans” are proposals for new preservation plans and does not require to be transferred to “Deprecated preservation plans” upon reformulation.
