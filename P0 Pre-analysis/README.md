@@ -18,12 +18,12 @@ The collated information are applied in later steps e.g. P1 Migration Assessment
 ## 2. Obligatory elements
 The deliverable report of the pre-analysis must contain the following content and may contain other collated information deemed relevant.
 
-### 2.1. Describe the content type
+### 2.1. Describe content type
 The data of the content type must be described in-depth e.g. what are the data used for, what purposes are fulfilled, what prerequisites are basis for the production and use of the data and which perspectives does the use of data have?
 
 The description must contain a delimitation (or clarification) of the content type. This answer the questions of precisely what data are investigated and which other data are bordering.
 
-### 2.2. Analyse prevalence of the content type
+### 2.2. Analyse prevalence of content type
 This section analyses the quantities of the data amongst data producers and already submitted to your archival collections. Possible questions:
 •	How much data are produced and/or used by data producers?
 •	How many and which submissions including the content type have your archive registered?
@@ -33,7 +33,7 @@ This section analyses the quantities of the data amongst data producers and alre
 •	How often is the content type disseminated to your users?
 Information can be collated through dialogue with specialist colleagues and access to archival databases.
 
-### 2.3. Analyse properties of the content type 
+### 2.3. Analyse properties of content type 
 The pre-analysis must identify file format properties of the content type. The identification can compose a preliminary draft of a table for the most known properties of the content type’ file formats. This table is to be later refined in the next step P1 Migration Assessment through interviews with stakeholders and assessment of property significance.
 
 Properties may be found through searches on the internet or through use of characterization or application software.
