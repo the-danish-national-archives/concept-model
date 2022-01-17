@@ -82,13 +82,13 @@ The sheet ”Terminology” contain explanations of the spreadsheet terms and va
 The report must contain a description of the results of the “Consequence assessment” sheet. Here, every business area and related consequences must be described and reasoned for every preservation format/level and every type of consequence. Numbers from the sheet “Economy” and time estimations must be included.
 
 E.g. 
-*	2. Description of the consequence assessment results
-	*	2.1. File format ODS
-		*	2.1.1. Validation
-			*	Money (numbers from the sheet ”Economy” must be presented)
-			*	Time (time estimations must be presented)
-			*	Quality
-		*	2.1.2. Conversion
+* 2. Description of the consequence assessment results
+	* 2.1. File format ODS
+		* 2.1.1. Validation
+			* Money (numbers from the sheet ”Economy” must be presented)
+			* Time (time estimations must be presented)
+			* Quality
+		* 2.1.2. Conversion
 
 ## 4. Description of economic consequences
 Likewise, the report must contain a separate description of the economic consequences from the sheet “Economy”. The most crucial sums for respectively continuous costs and initial costs for both your archive and the data producers/their suppliers must be copied to two tables as shown below.
