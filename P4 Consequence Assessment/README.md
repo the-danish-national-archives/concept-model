@@ -1,17 +1,17 @@
 # Guide to P4 Consequence Assessment
 
 ## Table of Contents
-1. [Introduction](1-introduction)
-2. [How to fill spreadsheet](2-how-to-fill-spreadsheet)
-	1. [Consequence Assessment](21-consequence-assessment)
-	2. [Economy](22-economy)
-	3. [Preconditions](23-preconditions)
-	4. [Terminology](24-terminology)
-3. [Description of assessment results](3-description-of-assessment-results)
-4. [Description of economic consequences](4-description-of-economic-consequences)
-5. [Deliverables](5-deliverables)
-	1. [Spreadsheet](51-spreadsheet)
-	2. [Report](52-report)
+1. [Introduction](#1-introduction)
+2. [How to fill spreadsheet](#2-how-to-fill-spreadsheet)
+	1. [Consequence Assessment](#21-consequence-assessment)
+	2. [Economy](#22-economy)
+	3. [Preconditions](#23-preconditions)
+	4. [Terminology](#24-terminology)
+3. [Description of assessment results](#3-description-of-assessment-results)
+4. [Description of economic consequences](#4-description-of-economic-consequences)
+5. [Deliverables](#5-deliverables)
+	1. [Spreadsheet](#51-spreadsheet)
+	2. [Report](#52-report)
 
 ## 1. Introduction
 This guide describes how the step P4 Consequence Assessment is applied.
