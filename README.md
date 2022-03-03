@@ -9,7 +9,7 @@ The Concept Model enables your archive to develop preservation plans for content
 * Format Assessment
 * Testing data and software
 * Consequence Assessment
-* and finally the drafting a Preservation Plan for your archive's management
+* and finally the drafting of a Preservation Plan for your archive's management
 
 To support the completion, guides for each step and templates are provided. We present the Concept Model in an English translation from Danish and we kindly ask you to bear this in mind when reading. The translations have been made to support international dissemination of the model.
 
