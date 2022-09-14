@@ -18,7 +18,7 @@ The purpose of presenting the Concept Model publicly is to transparently publici
 ## Credits
 People at the DNA who did major works on the Concept Model:
 * Frederik Holmelund Kjærskov
-* Asbjørn Skødt
+* Asbjørn Skødt (assk@sa.dk)
 * Ann-Kristin Egeland
 * René Mittå
 * Jan Dalsten Sørensen
