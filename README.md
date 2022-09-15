@@ -22,3 +22,8 @@ People at the DNA who did major works on the Concept Model:
 * Ann-Kristin Egeland
 * René Mittå
 * Jan Dalsten Sørensen
+
+## Poster
+The poster was presented at the iPRES 2022 conference in Glasgow.
+
+![Poster summarizing the Concept Model](https://raw.githubusercontent.com/the-danish-national-archives/concept-model/main/Summary/Poster%2016-9%20ratio.png)
