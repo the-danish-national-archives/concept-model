@@ -15,6 +15,11 @@ To support the completion, guides for each step and templates are provided. We p
 
 The purpose of presenting the Concept Model publicly is to transparently publicize our internal methods and contribute to the field of digital preservation. Furthermore, we seek to enable discussions on the methods presented and encourage any Issues to be raised for us to consider.
 
+## Poster
+The poster was presented at the iPRES 2022 conference in Glasgow.
+
+![Poster summarizing the Concept Model](https://raw.githubusercontent.com/the-danish-national-archives/concept-model/main/Summary/Poster%2016-9%20ratio.png)
+
 ## Credits
 People at the DNA who did major works on the Concept Model:
 * Frederik Holmelund Kjærskov
@@ -22,8 +27,3 @@ People at the DNA who did major works on the Concept Model:
 * Ann-Kristin Egeland
 * René Mittå
 * Jan Dalsten Sørensen
-
-## Poster
-The poster was presented at the iPRES 2022 conference in Glasgow.
-
-![Poster summarizing the Concept Model](https://raw.githubusercontent.com/the-danish-national-archives/concept-model/main/Summary/Poster%2016-9%20ratio.png)
