@@ -40,7 +40,7 @@ The consequences affect business areas, which can be selected from a drop-down m
 * Storage
 * Dissemination
 
-The consequence assessment table calculates a sum for every preservation format or level. The sum is used in the comparison and assessment of the suitability for every preservation format or level. The calculations derive from the columns D, G and J where the numeric values are automatically copied, so that an automatic sum can be given.
+The consequence assessment table calculates a sum for every preservation format or level. The sum is used in the comparison and assessment of the suitability for every preservation format or level. The calculations derive from the columns D, G and J and are multiplied by weights in column C, so calculated values derive in columns E, H and K and lastly a sum value at the bottom.
 
 What is time, money and quality?
 * Time is defined as the extent of manual and time demanding workflows
