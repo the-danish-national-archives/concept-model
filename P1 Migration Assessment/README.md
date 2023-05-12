@@ -61,7 +61,7 @@ The identified significant properties must be listed in a table in the spreadshe
 * **Stakeholder comments**: Possibly, any comments which the stakeholder have concerning the significant property e.g. determination of acceptable value boundaries (validation requirements)
 
 The spreadsheet also contains the following sheets:
-* **Data analysis** applies quantification and overview of how many significant properties are lost in conversion and how many are confirmed by stakeholders. It uses a pivot chart.
+* **Data analysis** applies quantification and overview of how many significant properties are lost in conversion and how many are confirmed by stakeholders. It uses a pivot chart. Right click on a pivot chart and click "Refresh" to put the values into the pivot charts.
 * **Data formats** is a table for mapping of significant properties against file formats identified in the step P0 Pre-analysis and selected for assessment in the step P2 Format Assessment. You register “Yes/No” for match between file format and significant property. This tables creates an overview of which file formats preserve which significant properties and this information is applied in P2 Format Assessment.
 
 ## 3.2. Stakeholder analysis
